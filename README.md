@@ -11,7 +11,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=DR-AKSHAY&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=DR-AKSHAY&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=DR-AKSHAY&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![GitHub Streak](https://demolab.com)](https://git.io/streak-stats)
 
 ---
 [![](https://komarev.com/ghpvc/?username=DR-AKSHAY&icon=0&color=0)](https://visitcount.itsvg.in)
